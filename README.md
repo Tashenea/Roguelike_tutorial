@@ -1,2 +1,2 @@
-# Roguelike_tutorial
+# RogueLike_tutorial
 source code for roguelike
